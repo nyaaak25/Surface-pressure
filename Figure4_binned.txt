@@ -1,0 +1,25 @@
+Local Time [hour]	OMEGA Median Pressure [%]	OMEGA Std [%]	MCD Median Pressure [%]	MCD Std [%]
+0.500000	nan	nan	nan	nan
+1.500000	nan	nan	nan	nan
+2.500000	nan	nan	nan	nan
+3.500000	nan	nan	nan	nan
+4.500000	nan	nan	nan	nan
+5.500000	nan	nan	nan	nan
+6.500000	nan	nan	nan	nan
+7.500000	nan	nan	nan	nan
+8.500000	nan	nan	nan	nan
+9.500000	nan	nan	nan	nan
+10.500000	3.090015	1.761104	1.174645	0.051596
+11.500000	2.069118	3.054326	0.675241	0.179535
+12.500000	-0.393598	5.200028	-0.122521	0.103635
+13.500000	-3.797762	2.954809	-1.689549	0.346729
+14.500000	-3.618817	2.860554	-3.039365	0.264261
+15.500000	-9.433150	3.449305	-3.964252	0.099363
+16.500000	nan	nan	nan	nan
+17.500000	nan	nan	nan	nan
+18.500000	nan	nan	nan	nan
+19.500000	nan	nan	nan	nan
+20.500000	nan	nan	nan	nan
+21.500000	nan	nan	nan	nan
+22.500000	nan	nan	nan	nan
+23.500000	nan	nan	nan	nan
